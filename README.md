@@ -1,5 +1,3 @@
-# codatime
-How to contribute to github
 
   </div>
   <div style="display: inline_block"><br>
