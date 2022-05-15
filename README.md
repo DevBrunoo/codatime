@@ -1,23 +1,3 @@
-    <h1>This is a simple and special work I did for Mother's Day</h1>
-<ul>
-     <li>A tribute to all mothers on planet earth</li>
-     <li>Simple but out of the box design</li>
-     <li>A post I was happy to create</li>
-</ul>
-<h2>Note</h2>
-<h3>You may have to download the following things to be able to see the work</h3>
-<ul>
-     <li>NodeJS</li>
-     <li>NPM</li>
-</ul>
-<h3>If you already have NodeJS on your machine, install it in the terminal:</h3>
-<ul>
-     <li>npm install</li>
-     <li>npm install ejs</li>
-     <li>npm install nodemon or npm install node</li>
-</ul>
-              
-<h2><q>Anything feel free to send me a "Holla Word!!"</q></h2>
 
 <div>
   <br>
